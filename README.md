@@ -53,4 +53,5 @@ python exerciseTracker.py
 <img width="391" alt="image" src="https://github.com/patreeck/exerciseTracker/assets/163764755/1708e314-424d-483e-8c7d-3e8f226b2487">
 
 
-<img width="502" alt="image" src="https://github.com/patreeck/exerciseTracker/assets/163764755/5ac639f8-3f0c-46ab-b424-da8a1c24157c">
+<img width="527" alt="image" src="https://github.com/patreeck/exerciseTracker/assets/163764755/2e00c992-b23e-4993-b2bb-c648c841081c">
+
